@@ -1,2 +1,3 @@
 First file
-EDIT:Branch to develop
+EDIT:Branch to dev
+3 line conflict
